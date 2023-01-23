@@ -1,4 +1,5 @@
 // console.log('Hello World!');
-console.log('Git is Awesome!');
+const userInput = prompt('enter your input')
+console.log(userInput);
 
 
